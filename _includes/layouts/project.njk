@@ -1,0 +1,25 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<h1>{{ title }}</h1>
+
+<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+<a href="{{ tagUrl | url }}" class="project-tag">{{ tag }}</a>
+{%- endfor %}
+
+{{ content | safe }}
+
+{%- if collections.projects %}
+{%- set nextproject = collections.projects | getNextCollectionItem(page) %}
+{%- set previousproject = collections.projects | getPreviousCollectionItem(page) %}
+{%- if nextproject or previousproject %}
+<hr>
+<ul>
+  {%- if nextproject %}<li>Next: <a href="{{ nextproject.url | url }}">{{ nextproject.data.title }}</a></li>{% endif %}
+  {%- if previousproject %}<li>Previous: <a href="{{ previousproject.url | url }}">{{ previousproject.data.title }}</a></li>{% endif %}
+</ul>
+{%- endif %}
+{%- endif %}

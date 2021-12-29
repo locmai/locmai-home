@@ -247,3 +247,9 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+footer {
+  padding: 1rem;
+}
+footer {
+  border-top: 1px dashed var(--lightgray);
+}
