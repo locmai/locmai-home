@@ -66,7 +66,7 @@ Let's go through one by one and see what they (will) do and have.
 
 ### Layer 0: Metal
 
-![Having a metal arm is awesome](https://raw.githubusercontent.com/locmai/locmai-home-dev/main/static/img/metalarm.gif)
+![Having a metal arm is awesome](https://raw.githubusercontent.com/locmai/locmai-home/master/img/metalarm.gif)
 
 One must have something made of metal to be awesome, this layer provides Ansible playbooks for preparing the following:
 
@@ -183,7 +183,7 @@ I'm using a couple of third-party services that I don't find a better one to rep
 
 My blog is built and hosted on CloudFlare, this is their status:
 
-<img alt="CloudFlare is a beast" src="https://raw.githubusercontent.com/locmai/locmai-home-dev/main/static/img/ping2909.png" width="30%" height="30%">
+<img alt="CloudFlare is a beast" src="https://raw.githubusercontent.com/locmai/locmai-home/master/img/ping2909.png" width="30%" height="30%">
 
 The blog page above (picture captured on Sept 29th) is also surviving one big outage from Fastly this year that took down several big services like GitHub, StackOverflow but not ... uh uh CloudFlare!
 
