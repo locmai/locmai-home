@@ -65,6 +65,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+  const milaOptions = {
+    pattern: /^https?:/,
+    attrs: {
+        target: "_blank",
+        rel: "noopener noreferrer"
+    }
+  };
+
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
@@ -78,7 +86,10 @@ module.exports = function(eleventyConfig) {
       level: [1,2,3,4],
     }),
     slugify: eleventyConfig.getFilter("slug")
-  });
+  })
+  .use(require("markdown-it-link-attributes"), milaOptions)
+  .use(require('markdown-it-image-lazy-loading'))
+  ;
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
