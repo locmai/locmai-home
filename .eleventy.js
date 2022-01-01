@@ -65,13 +65,30 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
-  const milaOptions = {
-    pattern: /^https?:/,
-    attrs: {
+  const milaOptions = [
+    {
+      pattern: /^https:\/\/maibaloc.com.*/,
+      attrs: {
+        target: "_self",
+        "aria-hidden": "false"
+      }
+    },
+    {
+      pattern: /^http:\/\/localhost.*/,
+      attrs: {
+        target: "_self",
+        "aria-hidden": "false"
+      }
+    },
+    {
+      pattern: /^https?:/,
+      attrs: {
         target: "_blank",
         rel: "noopener noreferrer"
-    }
-  };
+      }
+    },
+  ]
+  ;
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
