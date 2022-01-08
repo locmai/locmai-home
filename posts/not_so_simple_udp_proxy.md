@@ -132,7 +132,7 @@ It's a simple for loop, read the packet then simply write it to target connectio
 
 So ...
 
-<img alt="go solution" src="https://raw.githubusercontent.com/locmai/locmai-home/master/img/boomudp.png" width="30%" height="30%">
+<img alt="go solution" src="https://imagedelivery.net/34xh1sPWPAwO1lv63pW2Eg/51f538ac-49c3-49af-5916-bf812d75b500/public" width="30%" height="30%">
 
 Leverage the best use of Go, we started refactoring and improving the code a bit, adding MetricWriter so it could handle each target connections separately:
 

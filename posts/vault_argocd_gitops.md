@@ -265,7 +265,7 @@ spec:
 And the secret injected nice and easy!
 
 
-<img alt="Secret injected" src="https://raw.githubusercontent.com/locmai/locmai-home/master/img/argocdsecrets.png" width="40%" height="40%">
+<img alt="Secret injected" src="https://imagedelivery.net/34xh1sPWPAwO1lv63pW2Eg/25d8d83b-862b-4573-756f-68abf3543500/public" width="40%" height="40%">
 
 Here's some other options people are doing GitOps secrets: [https://argoproj.github.io/argo-cd/operator-manual/secret-management](https://argoproj.github.io/argo-cd/operator-manual/secret-management/)
 
