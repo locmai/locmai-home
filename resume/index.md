@@ -85,8 +85,6 @@
   - Built a chatbot application that generates restaurant recommendations based on users’ location and preference
   - Semi-backend developer
 
-
-
 ## Contacts
 
 - Ho Chi Minh city, Viet Nam
