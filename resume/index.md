@@ -1,6 +1,18 @@
 # Loc Mai
 #### Site Reliability Engineer 
 
+## Contacts
+
+- Ho Chi Minh city, Viet Nam
+
+- Mobile: (+84) 90-858-4595
+
+- Email: locmai0201@gmail.com
+
+- Website: [https://maibaloc.com](https://maibaloc.com)
+
+- GitHub: [https://github.com/locmai](https://github.com/locmai)
+
 ## Objectives
 - Looking for a terrific opportunity to work in Site Reliability Engineering and be a part of a forward-thinking company that values innovation and professional growth.
 
@@ -53,7 +65,7 @@
 
 
 ## Open-source Projects
-- **Humble - Self-hosted home server built with infrastructure code**
+- **Humble - Self-hosted home server built with infrastructure as code**
   - Repository: https://github.com/locmai/humble
   - Project site: https://humble.maibaloc.com/
   - The project is seeking to set up a ready-to-go environment with operating services using modern infrastructure as code with GitOps driven and managed by Kubernetes.
@@ -84,18 +96,6 @@
 - **Facebook Hackathon 2016 – Honorable Mention**
   - Built a chatbot application that generates restaurant recommendations based on users’ location and preference
   - Semi-backend developer
-
-## Contacts
-
-- Ho Chi Minh city, Viet Nam
-
-- Mobile: (+84) 90-858-4595
-
-- Email: locmai0201@gmail.com
-
-- Website: [https://maibaloc.com](https://maibaloc.com)
-
-- GitHub: [https://github.com/locmai](https://github.com/locmai)
 
 ## References
 
