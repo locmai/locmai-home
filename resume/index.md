@@ -1,33 +1,22 @@
+
 # Loc Mai
-- Site Reliability Engineer located at Ho Chi Minh city, Viet Nam
-
-- Mobile: (+84) 90-858-4595
-
-- Email: locmai0201@gmail.com
-
-- Website: [https://maibaloc.com](https://maibaloc.com)
-
-- GitHub: [https://github.com/locmai](https://github.com/locmai)
-
+#### Site Reliability Engineer 
 
 ## Objectives
 - Looking for a terrific opportunity to work in Site Reliability Engineering and be a part of a forward-thinking company that values innovation and professional growth.
-- Developing a career path that combines management and technology leadership.
+
+- Developing a career path that combines engineering management and technology leadership.
 
 ## Experiences
-- **Site Reliability Engineer II  on Observability and Identity squad (April 2020 - Present 2021) – Axon Enterprise**
+- **Site Reliability Engineer II  on Observability and Identity squad (April 2020 - Present 2021) – Axon**
   - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system
   - Experienced with keeping high availability Prometheus instances on an extremely large scale
   - Experienced with OpenTelemetry observability framework
   - Build and unify Azure PaaS metrics with Promitor
   - Operate and manage Splunk for logging
   - Build and manage Identity Access management for Azure Cloud/AWS and the internal infrastructure
-  - Contributed to the following open-source projects:
-    - Promitor - promitor.io
-    - Opentelemetry - opentelemetry.io
-    - Prometheus - prometheus.io
 
-- **Site Reliability Engineer I on CloudOps squad (May 2020 - April 2021) – Axon Enterprise**
+- **Site Reliability Engineer I on CloudOps squad (May 2020 - April 2021) – Axon**
   - Operate the cloud infrastructure layer with Kubernetes platform
   - Be scrappy with Puppet, Terraform, Ansible and Salt
   - Work with various technology stacks, databases, systems
@@ -65,7 +54,7 @@
   - Certified for the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator.Demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
 
 
-## Open-source projects
+## Open-source Projects
 - **Humble - Self-hosted home server built with infrastructure code**
   - Repository: https://github.com/locmai/humble
   - Project site: https://humble.maibaloc.com/
@@ -87,14 +76,35 @@
 ## Hackathons
 - **KMS Hackathon 2018 – Runner-up team**
   - Built an app that optimizes job search for under mid-wage workers using a chat bot interface.
+
 - **Zalo Hackathon 2017 – Top 10 team**
   - Developed a music recommendation service that learns from users’ listening history.
+
 - **Facebook Hackathon 2016 – Honorable Mention**
   - Built a chat bot application that generates restaurant recommendations based on users’ location and preference
 
+## Contacts
+
+- Ho Chi Minh city, Viet Nam
+
+- Mobile: (+84) 90-858-4595
+
+- Email: locmai0201@gmail.com
+
+- Website: [https://maibaloc.com](https://maibaloc.com)
+
+- GitHub: [https://github.com/locmai](https://github.com/locmai)
+
 ## References
-### Khue Doan - a stronk placeholder here
 
-Contact: kdoan@axon.com
+### Greg Burton
+- Email: gburton@axon.com
+- Senior SRE Manager at Axon
 
-YAMLeer | ALS expert | DPS main | Tech Lead | Noobbasher2k at Axon
+### Khue Doan
+- Email: kdoan@axon.com
+- Site Reliability Engineer at Axon
+
+### Minh Hoang
+- Email: hnminh@outlook.com
+- Staff Engineer and QA Lead at ZaloPay
