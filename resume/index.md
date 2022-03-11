@@ -1,23 +1,20 @@
-# Loc Mai - Site Reliability Engineer
+# Loc Mai
+- Site Reliability Engineer located at Ho Chi Minh city, Viet Nam
 
-(+84) 90-858-4595
+- Mobile: (+84) 90-858-4595
 
-locmai0201@gmail.com
+- Email: locmai0201@gmail.com
 
-Ho Chi Minh, Viet Nam
+- Website: [https://maibaloc.com](https://maibaloc.com)
 
-[linkedin.com/in/locmai0201](linkedin.com/in/locmai0201)
+- GitHub: [https://github.com/locmai](https://github.com/locmai)
 
-[https://github.com/locmai](https://github.com/locmai)
 
 ## Objectives
----
 - Looking for a terrific opportunity to work in Site Reliability Engineering and be a part of a forward-thinking company that values innovation and professional growth.
 - Developing a career path that combines management and technology leadership.
 
 ## Experiences
----
-
 - **Site Reliability Engineer II  on Observability and Identity squad (April 2020 - Present 2021) – Axon Enterprise**
   - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system
   - Experienced with keeping high availability Prometheus instances on an extremely large scale
@@ -58,7 +55,6 @@ Ho Chi Minh, Viet Nam
   - Research solutions for performance, security and automation testing. Conducted various training programs on building Automation testing framework and operating Linux systems for Junior QA engineers.
 
 ## Certificates
----
 - **Microsoft Certified: DevOps Engineer Expert (Oct 2020)**
   - Certified to demonstrate the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.
 
@@ -67,29 +63,36 @@ Ho Chi Minh, Viet Nam
 
 - **Certified Kubernetes Administrator (August 2020)**
   - Certified for the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator.Demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
+
+
 ## Open-source projects
+- **Humble - Self-hosted home server built with infrastructure code**
+  - Repository: https://github.com/locmai/humble
+  - Project site: https://humble.maibaloc.com/
+  - The project is seeking to set up a ready-to-go environment with operating services using modern infrastructure as code with GitOps driven and managed by Kubernetes.
 
-### Humble - Self-hosted home server built with infrastructure code
+- **Yuta - A modern ChatOps framework**
+ - Repository: https://github.com/locmai/yuta-messaging
+ - A well-designed and extensible ChatOps framework for building system operation bots.
 
-- Repository: https://github.com/locmai/humble
-- Project site: https://humble.maibaloc.com/
-- The project is seeking to set up a ready-to-go environment with operating services using modern infrastructure as code with GitOps driven and managed by Kubernetes.
+- **Promitor - Azure Monitor scraper**
+  - Repository: https://github.com/tomkerkhove/promitor
+  - Partially contribute to Promitor which is an Azure Monitor scraper which makes the metrics available through a scraping endpoint for Prometheus.
 
-### Yuta - A modern ChatOps framework
-- Repository: https://github.com/locmai/yuta-messaging
-- A well-designed and extensible ChatOps framework for building system operation bots.
+- **OpenTelemetry - Set of Telemetry tools, integrations, SDKs**
+  - Project site: https://opentelemetry.io/
+  - Contribute in part to various OpenTelemetry projects, including OpenTelemetry Collector, Helm charts, and the Golang SDK.
 
-### Promitor - Azure Monitor scraper
-- Repository: https://github.com/tomkerkhove/promitor
-- Partially contribute to Promitor which is an Azure Monitor scraper which makes the metrics available through a scraping endpoint for Prometheus.
 
-### OpenTelemetry - Set of Telemetry tools, integrations, SDKs
-- Project site: https://opentelemetry.io/
-- Contribute in part to various OpenTelemetry projects, including OpenTelemetry Collector, Helm charts, and the Golang SDK.
+## Hackathons
+- **KMS Hackathon 2018 – Runner-up team**
+  - Built an app that optimizes job search for under mid-wage workers using a chat bot interface.
+- **Zalo Hackathon 2017 – Top 10 team**
+  - Developed a music recommendation service that learns from users’ listening history.
+- **Facebook Hackathon 2016 – Honorable Mention**
+  - Built a chat bot application that generates restaurant recommendations based on users’ location and preference
 
 ## References
----
-
 ### Khue Doan - a stronk placeholder here
 
 Contact: kdoan@axon.com
