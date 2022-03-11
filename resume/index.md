@@ -18,7 +18,6 @@
 - **Site Reliability Engineer I on CloudOps squad (May 2020 - April 2021) – Axon**
   - Operate the cloud infrastructure layer with Kubernetes platform
   - Be scrappy with Puppet, Terraform, Ansible and Salt
-  - Work with various technology stacks, databases, systems
   - Monitor and troubleshoot for the CentOS and Windows servers
   - Mediate with the green bars on Nagios
   - Have fun with ElasticSearch, Kafka, Redis, ActiveMQ
@@ -62,6 +61,7 @@
 - **Yuta - A modern ChatOps framework**
   - Repository: https://github.com/locmai/yuta-messaging
   - A well-designed and extensible ChatOps framework for building system operation bots.
+  - Integrated with Matrix, Slack, Diaglogflow
 
 - **Promitor - Azure Monitor scraper**
   - Repository: https://github.com/tomkerkhove/promitor
@@ -75,12 +75,17 @@
 ## Hackathons
 - **KMS Hackathon 2018 – Runner-up team**
   - Built an app that optimizes job search for under mid-wage workers using a chat bot interface.
+  - Main backend developer
 
 - **Zalo Hackathon 2017 – Top 10 team**
   - Developed a music recommendation service that learns from users’ listening history.
+  - Main software developer
 
 - **Facebook Hackathon 2016 – Honorable Mention**
-  - Built a chat bot application that generates restaurant recommendations based on users’ location and preference
+  - Built a chatbot application that generates restaurant recommendations based on users’ location and preference
+  - Semi-backend developer
+
+
 
 ## Contacts
 
