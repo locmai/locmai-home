@@ -1,3 +1,12 @@
+---
+layout: layouts/cv.njk
+title: Loc Mai - Curriculum Vitae
+templateClass: tmpl-post
+eleventyNavigation:
+  key: Curriculum Vitae
+  order: 5
+---
+
 # Loc Mai
 #### Site Reliability Engineer 
 
