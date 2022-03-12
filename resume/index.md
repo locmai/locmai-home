@@ -67,7 +67,7 @@ eleventyNavigation:
   - Certified to demonstrate the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.
 
 - **Azure Administrator Associate (Sep 2020)**
-  - validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
+  - Certified the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
 
 - **Certified Kubernetes Administrator (August 2020)**
   - Certified for the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator.Demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
@@ -92,9 +92,6 @@ eleventyNavigation:
   - Project site: https://opentelemetry.io/
   - Contribute in part to various OpenTelemetry projects, including OpenTelemetry Collector, Helm charts, and the Golang SDK.
 
-&nbsp;
-&nbsp;
-&nbsp;
 ## Hackathons
 - **KMS Hackathon 2018 – Runner-up team**
   - Built an app that optimizes job search for under mid-wage workers using a chat bot interface.
