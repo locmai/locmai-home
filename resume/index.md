@@ -80,7 +80,7 @@ eleventyNavigation:
   - The project is seeking to set up a ready-to-go environment with operating services using modern infrastructure as code with GitOps driven and managed by Kubernetes.
 
 - **Yuta - A modern ChatOps framework**
-  - Repository: https://github.com/locmai/yuta-messaging
+  - Repository: https://github.com/locmai/yuta
   - A well-designed and extensible ChatOps framework for building system operation bots.
   - Integrated with Matrix, Slack, Diaglogflow
 
