@@ -105,16 +105,11 @@ eleventyNavigation:
   - Built a chatbot application that generates restaurant recommendations based on users’ location and preference
   - Semi-backend developer
 
-## References
+## Education
 
-### Greg Burton
-- Email: gburton@axon.com
-- Senior SRE Manager at Axon
-
-### Khue Doan
-- Email: kdoan@axon.com
-- Site Reliability Engineer at Axon
-
-### Minh Hoang
-- Email: hnminh@outlook.com
-- Staff Engineer and QA Lead at ZaloPay
+- **Van Lang University - Bachelor of Software Engineering (September 2014 – September 2018)**
+  - Followed the Carnegie Mellon University program for Software Engineering Major
+  - Salutatorian in the Software Engineering graduating in 2018
+- **High School for the Gifted - IT specialist (September 2011 – April 2014)**
+  - Studied the Information Technology specialist program in High School
+ 
