@@ -28,22 +28,22 @@ eleventyNavigation:
 - Developing a career path that combines engineering management and technology leadership.
                                                                    
 ## Experiences
-- **Site Reliability Engineer II  on Observability and Identity squad (April 2020 - Present 2021) – Axon**
-  - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system
-  - Experienced with keeping high availability Prometheus instances on an extremely large scale
-  - Experienced with OpenTelemetry observability framework
-  - Build and unify Azure PaaS metrics with Promitor
-  - Operate and manage Splunk for logging
-  - Build and manage Identity Access management for Azure Cloud/AWS and the internal infrastructure
+- **Site Reliability Engineer II  on Observability and Identity squad (April 2021 - Present) – Axon**
+  - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system.
+  - Experienced with keeping high availability Prometheus instances on an extremely large scale.
+  - Experienced with OpenTelemetry observability framework.
+  - Build and unify Azure PaaS metrics with Promitor to help streaming the metrics from Azure to the on-premise monitor platform.
+  - Operate and manage Splunk for logging.
+  - Build and manage Identity Access management for Azure Cloud/AWS and the internal infrastructure.
 
 - **Site Reliability Engineer I on CloudOps squad (May 2020 - April 2021) – Axon**
-  - Operate the cloud infrastructure layer with Kubernetes platform
-  - Be scrappy with Puppet, Terraform, Ansible and Salt
-  - Monitor and troubleshoot for the CentOS and Windows servers
-  - Mediate with the green bars on Nagios
-  - Have fun with ElasticSearch, Kafka, Redis, ActiveMQ
-  - Get rid of the manual toil from the system by engineering the CloudOps tools
-  - Cloud operating across AWS and Azure
+  - Operate the cloud infrastructure layer with Kubernetes platform.
+  - Be scrappy with Puppet, Terraform, Ansible and Salt.
+  - Monitor and troubleshoot for the CentOS and Windows servers.
+  - Mediate with the green bars on Nagios.
+  - Have fun with ElasticSearch, Kafka, Redis, ActiveMQ.
+  - Get rid of the manual toil from the system by engineering the CloudOps tools.
+  - Cloud operating across AWS and Azure.
 
 - **Site Reliability Engineer (August 2018 - May 2020) – Grove HR Solution**
   - Self-leading Site Reliability engineering works.
