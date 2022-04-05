@@ -49,7 +49,7 @@ So if we'd start writing a new chart, this is the most basic and most minimal ch
 
 ### Application/Library Type
 
-Helm v3 introduced the new chart type called library which helps reducing the helm chart boilerplate code. As they started to realized more and more duplicated templating code have been written so far since the first days. They are different in the way we think of them: Application is for application related resources we would one to deploy, Library is for utilities/helper tools that supporting writing the manifests.
+Helm v3 introduced the new chart type called library which helps reducing the helm chart boilerplate code. As they started to realized more and more duplicated templating code have been written so far since the first days. They are different in the way we think of them: Application is for application related resources we would want to deploy, Library is for utilities/helper tools that supporting writing the manifests.
 
 For example, we could define a common library chart with the following ./templates/_templatevalues.tpl
 
