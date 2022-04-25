@@ -1,7 +1,7 @@
 ---
 title: 'Overkilled homelab monitoring system, Pt. 1'
 description: "How-to guide to deploy a high availability Cortex system on bare-metal"
-date: 2022-04-25
+date: 2022-04-26
 author:
   name: Loc Mai
 tags:
@@ -578,3 +578,8 @@ helm install grafana grafana/grafana -f grafana_values.yaml
 From here, you could import the recommended dashboards from [monitoring.mixins.dev](https://monitoring.mixins.dev/) for Cortex at https://monitoring.mixins.dev/cortex/#dashboards
 
 And with that, we have a Cortex monitoring system up and running. This would be the end of the part 1 of the Cortex series. See you in the next posts!
+
+---
+P/S: I planned to have the basic authentication, remote Prometheus setup and multi tenancy setting in this blog as well. But I'm a bit tired for now.
+
+P/S: Or I would update more tomorrow and finish up this blog.
