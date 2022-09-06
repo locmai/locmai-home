@@ -85,9 +85,21 @@ templateClass: tmpl-post
   - Repository: https://github.com/tomkerkhove/promitor
   - Partially contribute to Promitor which is an Azure Monitor scraper which makes the metrics available through a scraping endpoint for Prometheus.
 
+- **Cortex**
+  - Project site: https://cortexmetrics.io
+  - Contribute in building Helm chart and bug fixing.
+
 - **OpenTelemetry - Set of Telemetry tools, integrations, SDKs**
   - Project site: https://opentelemetry.io/
   - Contribute in part to various OpenTelemetry projects, including OpenTelemetry Collector, Helm charts, and the Golang SDK.
+
+- **Jaeger - End-to-end distributed tracing**
+  - Project site: https://www.jaegertracing.io
+  - Contribute in writing the Helm chart and bug fixing.
+
+- **IdentityNow Terraform Provider**
+  - Repository: https://github.com/OpenAxon/terraform-provider-identitynow
+  - Build a Terraform provider for IdentityNow service.
 
 ## Hackathons
 - **KMS Hackathon 2018 – Runner-up team**
