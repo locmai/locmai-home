@@ -67,7 +67,7 @@ templateClass: tmpl-post
   - Certified the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
 
 - **Certified Kubernetes Administrator (August 2020)**
-  - Certified for the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator.Demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
+  - Certified for the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
 
 
 ## Open-source Projects
