@@ -97,10 +97,6 @@ templateClass: tmpl-post
   - Project site: https://www.jaegertracing.io
   - Contribute in writing the Helm chart and bug fixing.
 
-- **IdentityNow Terraform Provider**
-  - Repository: https://github.com/OpenAxon/terraform-provider-identitynow
-  - Build a Terraform provider for IdentityNow service.
-
 ## Hackathons
 - **KMS Hackathon 2018 – Runner-up team**
   - Built an app that optimizes job search for under mid-wage workers using a chat bot interface.
