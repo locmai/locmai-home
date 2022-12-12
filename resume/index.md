@@ -5,7 +5,7 @@ templateClass: tmpl-post
 ---
 
 # Loc Mai
-#### Site Reliability Engineer 
+#### Senior Site Reliability Engineer 
 
 ## Contacts
 
@@ -25,7 +25,7 @@ templateClass: tmpl-post
 - Developing a career path that combines engineering management and technology leadership.
                                                                    
 ## Experiences
-- **Site Reliability Engineer II  on Observability and Identity squad (April 2021 - Present) – Axon**
+- **Senior Site Reliability Engineer, Observability and Identity (April 2021 - Present) – Axon**
   - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system.
   - Experienced with keeping high availability Prometheus instances on an extremely large scale.
   - Experienced with OpenTelemetry observability framework.
@@ -33,7 +33,7 @@ templateClass: tmpl-post
   - Operate and manage Splunk for logging.
   - Build and manage Identity Access management for Azure Cloud/AWS and the internal infrastructure.
 
-- **Site Reliability Engineer I on CloudOps squad (May 2020 - April 2021) – Axon**
+- **Site Reliability Engineer, CloudOps (May 2020 - April 2021) – Axon**
   - Operate the cloud infrastructure layer with Kubernetes platform.
   - Be scrappy with Puppet, Terraform, Ansible and Salt.
   - Monitor and troubleshoot for the CentOS and Windows servers.
