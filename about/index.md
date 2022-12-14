@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ## Hi, you found me!
 
-I'm Loc. A humble site reliability engineer at Axon. My main areas of expertise are system administration, cloud engineering, and Kubernetes.
+I'm Loc. A site reliability engineer at Axon. System administration, cloud engineering, and Kubernetes are my primary competence areas.
 
 I prefer to solve difficulties that arise between application development and system operations than addressing specific low-level concerns.
 
