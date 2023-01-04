@@ -1,11 +1,12 @@
 ---
-title: 'Humble Revamp'
+title: 'Humble Revamp (2021/DONE)'
 description: "Re: Humble"
 date: "2021-11-26"
 author:
   name: Loc Mai
 tags:
   - humble
+  - 2021
 layout: layouts/post.njk
 ---
 

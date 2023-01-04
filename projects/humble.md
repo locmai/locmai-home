@@ -1,9 +1,10 @@
 ---
-title: 'Humble Project 2021'
+title: 'Humble Project (2021/DONE)'
 description: "Be humble."
 date: 2021-02-11
 tags:
   - humble
+  - 2021
 layout: layouts/post.njk
 ---
 
