@@ -54,4 +54,8 @@ I could later on integrate Yuta with Stalker-chan!
 Continuously improve and maintain the project. I still have some works for Humble though they are more focused on stabilizing the project and introducing more best practices than new features.
 
 
-And that's it for now. I will probably add more soon.
+And that's it for now. I will probably add more soon. Loading meme ...
+
+<img alt="anotherproject" src="https://imagedelivery.net/34xh1sPWPAwO1lv63pW2Eg/717d0285-41ef-4ca4-415f-026099250700/public">
+
+(None of these are finished ...)
