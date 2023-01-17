@@ -32,7 +32,7 @@ templateClass: tmpl-post
   - Conduct technical interviews to hire Site Reliability Engineers and Database Reliability Engineers from Junior to Senior level
   - Be an on-call SRE and handle production incidents
 
-- **Site Reliability Engineer, Observability and Identity (April 2021 - Present) – Axon**
+- **Site Reliability Engineer, Observability and Identity (April 2021 - December 2022) – Axon**
   - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system in order to cut down roughly $30,000 of the cost per month for monitoring infrastructure and gain more contracts on the FedRAMP High level.
   - Experienced with keeping high availability Prometheus instances on an extremely large scale.
   - Experienced with OpenTelemetry observability framework.
