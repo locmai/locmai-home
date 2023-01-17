@@ -25,8 +25,15 @@ templateClass: tmpl-post
 - Developing a career path that combines engineering management and technology leadership.
                                                                    
 ## Experiences
-- **Senior Site Reliability Engineer, Observability and Identity (April 2021 - Present) – Axon**
-  - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system.
+- **Senior Site Reliability Engineer, Observability and Identity (January 2023 - Present) – Axon**
+  - Architect and build new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services
+  - Collaborate and coordinate works across corporate departments
+  - Take technical leadership role in different initiatives
+  - Conduct technical interviews to hire Site Reliability Engineers and Database Reliability Engineers from Junior to Senior level
+  - Be an on-call SRE and handle production incidents
+
+- **Site Reliability Engineer, Observability and Identity (April 2021 - Present) – Axon**
+  - Build a Unified Observability Platform including Prometheus, Grafana, Cortex for the enormous system. Migrate from DataDog to homegrown monitoring system in order to cut down roughly $30,000 of the cost per month for monitoring infrastructure and gain more contracts on the FedRAMP High level.
   - Experienced with keeping high availability Prometheus instances on an extremely large scale.
   - Experienced with OpenTelemetry observability framework.
   - Build and unify Azure PaaS metrics with Promitor to help streaming the metrics from Azure to the on-premise monitor platform.
