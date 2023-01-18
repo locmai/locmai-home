@@ -33,7 +33,7 @@ templateClass: tmpl-post
   - Be an on-call SRE and handle production incidents
 
 - **Site Reliability Engineer, Observability and Identity (April 2021 - December 2022) – Axon**
-  - Save approximately $300K cost per year on monitoring infrastructure & help earn more contracts on the FedRAMP High level by migrating from DataDog service to a self-build Unified Observability Platform with Prometheus, Grafana, and Cortex.
+  - Save approximately $300K per year on monitoring infrastructure cost & help earn more contracts on the FedRAMP High level by migrating from DataDog service to a self-build Unified Observability Platform with Prometheus, Grafana, and Cortex.
   - Experienced with keeping high availability Prometheus instances on an extremely large scale.
   - Experienced with OpenTelemetry observability framework.
   - Build and unify Azure PaaS metrics with Promitor to help streaming the metrics from Azure to the on-premise monitor platform.
