@@ -119,6 +119,6 @@ templateClass: tmpl-post
 
 ## Education
 
-- **High School for the Gifted - IT specialist (September 2011 – April 2014)**
+- **High School for the Gifted - Vietnam National University (September 2011 – April 2014)**
   - Studied the Information Technology specialist program in High School
  
