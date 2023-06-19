@@ -26,45 +26,45 @@ templateClass: tmpl-post
                                                                    
 ## Experiences
 - **Senior Site Reliability Engineer, Observability and Identity (January 2023 - Present) – Axon**
-  - Architect and build new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services
-  - Collaborate and coordinate works across corporate departments
-  - Take technical leadership role in different initiatives
-  - Conduct technical interviews to hire Site Reliability Engineers and Database Reliability Engineers from Junior to Senior level
-  - Be an on-call SRE and handle production incidents
+  - Architected and built new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services. 
+  - Centralized the identity management for the developer tools environment.
+  - Supported the migration from GitHub Enterprise to GitHub Enterprise Cloud Managed Users.
+  - Collaborated and coordinated works across corporate departments.
+  - Took technical leadership role in different initiatives.
+  - Conducted technical interviews to hire Site Reliability Engineers and Database Reliability Engineers from Junior to Senior level.
+  - Was responsible for on-call rotations and handled production incidents.
 
 - **Site Reliability Engineer, Observability and Identity (April 2021 - December 2022) – Axon**
-  - Save approximately $300K per year on monitoring infrastructure cost & help earn more contracts on the FedRAMP High level by migrating from DataDog service to a self-build Unified Observability Platform with Prometheus, Grafana, and Cortex.
+  - Saved approximately $300K per year on monitoring infrastructure cost & help earn more contracts on the FedRAMP High level by migrating from DataDog service to a self-build Unified Observability Platform with Prometheus, Grafana, and Cortex.
   - Experienced with keeping high availability Prometheus instances on an extremely large scale.
   - Experienced with OpenTelemetry observability framework.
-  - Build and unify Azure PaaS metrics with Promitor to help streaming the metrics from Azure to the on-premise monitor platform.
-  - Operate and manage Splunk for logging.
-  - Build and manage Identity Access management for Azure Cloud/AWS and the internal infrastructure.
+  - Built and unified Azure PaaS metrics with Promitor to help streaming the metrics from Azure to the on-premise monitor platform.
+  - Operated and managed Splunk for logging.
+  - Built and managed Identity Access management for Azure Cloud/AWS and the internal infrastructure.
 
 - **Site Reliability Engineer, CloudOps (May 2020 - April 2021) – Axon**
-  - Operate the cloud infrastructure layer with Kubernetes platform.
-  - Be scrappy with Puppet, Terraform, Ansible and Salt.
-  - Monitor and troubleshoot for the CentOS and Windows servers.
-  - Mediate with the green bars on Nagios.
-  - Have fun with ElasticSearch, Kafka, Redis, ActiveMQ.
-  - Get rid of the manual toil from the system by engineering the CloudOps tools.
-  - Cloud operating across AWS and Azure.
+  - Operated the cloud infrastructure layer with Kubernetes platform.
+  - Experienced with Puppet, Terraform, Ansible and Salt on daily tasks
+  - Monitored and troubleshooted for the CentOS and Windows servers.
+  - Got rid of the manual toil from the system by engineering the CloudOps tools including on-boarding scripts, auto-unlock, metric exporters, and various utilities.
+  - Operated AWS and Azure cloud providers.
 
 - **Site Reliability Engineer (August 2018 - May 2020) – Grove HR Solution**
-  - Self-leading Site Reliability engineering works.
-  - Fully build and manage production-grade cloud infrastructure on Amazon Web Services (AWS) and Google Cloud Platform.
-  - Build continuous integration & delivery systems, including Argo Stacks (ArgoCD, Argo Workflows, Argo Events), Jenkins.
-  - Manage cloud-native Kubernetes clusters.
-  - Implement microservices with TypeScript, NestJS, Lerna.
-  - Develop Slack bot for Continuous Integration with Python and internal services with Golang.
-  - Build CI/CD systems for the React Native team using Fastlane and App Center.
-  - Administrater Mongo database and provision infrastructure services.
-  - Implement the end-to-end data migration for MongoDB using Argo Workflows. Provide a fully automated self-tested migration process before rolling out to production.
+  - Self-led Site Reliability engineering works.
+  - Fully built and managed production-grade cloud infrastructure on Amazon Web Services (AWS) and Google Cloud Platform.
+  - Built continuous integration & delivery systems, including Argo Stacks (ArgoCD, Argo Workflows, Argo Events), Jenkins.
+  - Managed cloud-native Kubernetes clusters and Istio Service Mesh.
+  - Implemented microservices with TypeScript, NestJS, Lerna.
+  - Developed Slack bot for Continuous Integration with Python and internal services with Golang.
+  - Built CI/CD systems for the React Native team using Fastlane and App Center.
+  - Administrated Mongo database and provision infrastructure services.
+  - Implemented the end-to-end data migration for MongoDB using Argo Workflows. Provide a fully automated self-tested migration process before rolling out to production.
 
 - **Performance Test Engineer (October 2016 – July 2018) – Athenka**
-  - Responsible for the development and maintenance of automation testing and performance testing on a Chat Bot project – automatic validating the accuracy of the answers from different Natural Language Processing models of the Bot NLP Engine.
+  - Was responsible for the development and maintenance of automation testing and performance testing on a Chat Bot project – automatic validating the accuracy of the answers from different Natural Language Processing models of the Bot NLP Engine.
 
 - **R&D Intern (September 2015 – September 2016) – KMS Technology**
-  - Research solutions for performance, security and automation testing. Conducted various training programs on building Automation testing framework and operating Linux systems for Junior QA engineers.
+  - Studied solutions for performance, security and automation testing. Conducted various training programs on building Automation testing framework and operating Linux systems for Junior QA engineers.
 
 ## Certificates
 - **Microsoft Certified: DevOps Engineer Expert (Oct 2020)**
@@ -90,19 +90,19 @@ templateClass: tmpl-post
 
 - **Promitor - Azure Monitor scraper**
   - Repository: https://github.com/tomkerkhove/promitor
-  - Partially contribute to Promitor which is an Azure Monitor scraper which makes the metrics available through a scraping endpoint for Prometheus.
+  - Contributed to Promitor which is an Azure Monitor scraper which makes the metrics available through a scraping endpoint for Prometheus.
 
 - **Cortex**
   - Project site: https://cortexmetrics.io
-  - Contribute in building Helm chart and bug fixing.
+  - Contributed in building Helm chart and bug fixing.
 
 - **OpenTelemetry - Set of Telemetry tools, integrations, SDKs**
   - Project site: https://opentelemetry.io/
-  - Contribute in part to various OpenTelemetry projects, including OpenTelemetry Collector, Helm charts, and the Golang SDK.
+  - Contributed in part to various OpenTelemetry projects, including OpenTelemetry Collector, Helm charts, and the Golang SDK.
 
 - **Jaeger - End-to-end distributed tracing**
   - Project site: https://www.jaegertracing.io
-  - Contribute in writing the Helm chart and bug fixing.
+  - Contributed in writing the Helm chart and bug fixing.
 
 ## Hackathons
 - **KMS Hackathon 2018 – Runner-up team**
