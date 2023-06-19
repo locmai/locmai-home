@@ -21,16 +21,15 @@ templateClass: tmpl-post
                                                       
 ## Experiences
 - **Senior Site Reliability Engineer, Observability and Identity (January 2023 - Present) – Axon**
-  - Architected and built new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services. 
+  - Architected and built new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services. Lead climber for building infrastructure layers and monitoring platform.
   - Centralized the identity management for the developer tools environment.
   - Supported the migration from GitHub Enterprise to GitHub Enterprise Cloud Managed Users.
-  - Collaborated and coordinated works across corporate departments.
-  - Took technical leadership role in different initiatives.
-  - Conducted technical interviews to hire Site Reliability Engineers and Database Reliability Engineers from Junior to Senior level.
+  - Collaborated and coordinated works across corporate departments including platform engineering team and company-wide infrastructure team.
   - Was responsible for on-call rotations and handled production incidents.
+  - Conducted technical interviews to hire Site Reliability Engineers and Database Reliability Engineers from Junior to Senior level.
 
 - **Site Reliability Engineer, Observability and Identity (April 2021 - December 2022) – Axon**
-  - Saved approximately $300K per year on monitoring infrastructure cost & help earn more contracts on the FedRAMP High level by migrating from DataDog service to a self-build Unified Observability Platform with Prometheus, Grafana, and Cortex.
+  - Saved approximately $300K per year on monitoring infrastructure cost & helped company to earn more contracts on the FedRAMP High level by migrating from DataDog service to a self-build Unified Observability Platform with Prometheus, Grafana, and Cortex.
   - Experienced with keeping high availability Prometheus instances on an extremely large scale.
   - Experienced with OpenTelemetry observability framework.
   - Built and unified Azure PaaS metrics with Promitor to help streaming the metrics from Azure to the on-premise monitor platform.
@@ -56,10 +55,11 @@ templateClass: tmpl-post
   - Implemented the end-to-end data migration for MongoDB using Argo Workflows. Provide a fully automated self-tested migration process before rolling out to production.
 
 - **Performance Test Engineer (October 2016 – July 2018) – Athenka**
-  - Was responsible for the development and maintenance of automation testing and performance testing on a Chat Bot project – automatic validating the accuracy of the answers from different Natural Language Processing models of the Bot NLP Engine.
+  - Was responsible for the development and maintenance of automation testing and performance testing on a Chat Bot project – automatically validating the accuracy of the answers from different Natural Language Processing models of the Bot NLP Engine.
 
 - **R&D Intern (September 2015 – September 2016) – KMS Technology**
-  - Studied solutions for performance, security and automation testing. Conducted various training programs on building Automation testing framework and operating Linux systems for Junior QA engineers.
+  - Studied solutions for performance, security and automation testing. 
+  - Conducted various training programs on building Automation testing framework and operating Linux systems for Junior QA engineers.
 
 ## Certificates
 - **Microsoft Certified: DevOps Engineer Expert (Oct 2020)**
