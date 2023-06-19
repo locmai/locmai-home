@@ -18,12 +18,7 @@ templateClass: tmpl-post
 - Website: [https://maibaloc.com](https://maibaloc.com)
 
 - GitHub: [https://github.com/locmai](https://github.com/locmai)
-
-## Objectives
-- Looking for a terrific opportunity to work in Site Reliability Engineering and be a part of a forward-thinking company that values innovation and professional growth.
-
-- Developing a career path that combines engineering management and technology leadership.
-                                                                   
+                                                      
 ## Experiences
 - **Senior Site Reliability Engineer, Observability and Identity (January 2023 - Present) – Axon**
   - Architected and built new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services. 
