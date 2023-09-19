@@ -31,7 +31,7 @@ patching functions to touch it in more weird ways: patch, patchesStrategicMerge,
 Do you even read your examples? How many JSON or YAML multi-line string
 should I write to set a service rule right??
 
-```json
+```
 [
   { "op": "replace", "path": "/spec/rules/0/host", "value": "foo.bar.io" },
 
@@ -55,7 +55,7 @@ Ref:
 Well I guess it's not that bad to patch multiple objects with just YAML right?
 Oh, more reading about the `patches`:
 
-```yaml
+```
 patches:
   - path: <relative path to file containing patch>
     target:
@@ -141,7 +141,7 @@ Sure, this is why I see this implementation a lot:
 
 Where `kustomization.yaml` is like:
 
-```yaml
+```
 kind: Kustomization
 namespace: monitoring
 resources:
@@ -150,7 +150,7 @@ resources:
 
 And Grafana eventually deployed by Flux through Helm release:
 
-```yaml
+```
 apiVersion: helm.toolkit.fluxcd.io/v2beta1
 kind: HelmRelease
 metadata:
