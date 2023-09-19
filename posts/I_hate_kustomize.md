@@ -20,8 +20,9 @@ anything else to be honest.
 
 Take a look at the first claim at the landing page https://kubectl.docs.kubernetes.io/:
 
-> Kustomize lets you customize raw, template-free YAML files for multiple
-> purposes, leaving the original YAML untouched and usable as is.
+```
+Kustomize lets you customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is.
+```
 
 Cool. Awesome. Lean, mean, Kubernetes-manifest generator machine. Wait how do
 you do the customization without touching the raw YAML??? Ohhhh by having the
