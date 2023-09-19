@@ -165,7 +165,7 @@ I see how useful kustomize is in this scenario where you could have the awesome 
 
 Ref: https://kubectl.docs.kubernetes.io/faq/kustomize/eschewedfeatures/#globs-in-kustomization-files
 
-2 contributors from the project claimed that it is bad to have globbing in the code base, they referrenced a Java blog post and then removed the feature from kustomize 5 years. The PR has no description on why they did that, 59 thumbs down, and more followed-up issues.
+2 contributors from the project claimed that it is bad to have globbing in the code base, they referrenced a Java blog post and then removed the feature from kustomize 5 years ago. The PR has no description on why they did that, 59 thumbs down, and more followed-up issues.
 
 2 years later after the PR merged, the same contributor with the Java blog post said:
 
