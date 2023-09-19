@@ -11,10 +11,7 @@ layout: layouts/post.njk
 
 ## The title is a clickbait
 
-No it's not. I took it personally not because how "bad" the tool is but how they
-claimed it to be better than Helm but unable to completely resolve the real
-issues. And I don't even like Helm that much or saying Helm is the best or
-anything else to be honest.
+No it's not. I took it personally not because how "bad" the tool is but how they claimed it to be better than Helm but unable to completely resolve the real issues. And I don't even like Helm that much or saying Helm is the best or anything else to be honest.
 
 ## We touch it, but not really, but still touch it.
 
@@ -24,13 +21,9 @@ Take a look at the first claim at the landing page https://kubectl.docs.kubernet
 Kustomize lets you customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is.
 ```
 
-Cool. Awesome. Lean, mean, Kubernetes-manifest generator machine. Wait how do
-you do the customization without touching the raw YAML??? Ohhhh by having the
-patching functions to touch it in more weird ways: patch, patchesStrategicMerge,
-~patchJson6969~ patchJson6902, etc.
+Cool. Awesome. Lean, mean, Kubernetes-manifest generator machine. Wait how do you do the customization without touching the raw YAML??? Ohhhh by having the patching functions to touch it in more weird ways: patch, patchesStrategicMerge, ~patchJson6969~ patchJson6902, etc.
 
-Do you even read your examples? How many JSON or YAML multi-line string
-should I write to set a service rule right??
+Do you even read your examples? How many JSON or YAML multi-line string should I write to set a service rule right??
 
 ```json
   [
@@ -54,6 +47,7 @@ Ref:
 [https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md)
 
 Well I guess it's not that bad to patch multiple objects with just YAML right?
+
 Oh, more reading about the `patches`:
 
 ```yaml
@@ -72,8 +66,7 @@ Oh, more reading about the `patches`:
 Ref:
 [https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md)
 
-Brilliant! Now instead of just considering where the field is and what
-value should I put, I woul have to consider what relative path to the file that I should update? And all of the internal specification? Cool feature!
+Brilliant! Now instead of just considering where the field is and what value should I put, I woul have to consider what relative path to the file that I should update? And all of the internal specification? Cool feature!
 
 ## No, templating sucks. We have transformers, generators, patch strategies.
 
