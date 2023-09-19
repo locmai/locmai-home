@@ -32,22 +32,22 @@ patching functions to touch it in more weird ways: patch, patchesStrategicMerge,
 Do you even read your examples? How many JSON or YAML multi-line string
 should I write to set a service rule right??
 
-```
-[
-  { "op": "replace", "path": "/spec/rules/0/host", "value": "foo.bar.io" },
+```json
+  [
+    { "op": "replace", "path": "/spec/rules/0/host", "value": "foo.bar.io" },
 
-  {
-    "op": "replace",
-    "path": "/spec/rules/0/http/paths/0/backend/servicePort",
-    "value": 80
-  },
+    {
+      "op": "replace",
+      "path": "/spec/rules/0/http/paths/0/backend/servicePort",
+      "value": 80
+    },
 
-  {
-    "op": "add",
-    "path": "/spec/rules/0/http/paths/1",
-    "value": { "path": "/healthz", "backend": { "servicePort": 7700 } }
-  }
-]
+    {
+      "op": "add",
+      "path": "/spec/rules/0/http/paths/1",
+      "value": { "path": "/healthz", "backend": { "servicePort": 7700 } }
+    }
+  ]
 ```
 
 Ref:
@@ -56,8 +56,8 @@ Ref:
 Well I guess it's not that bad to patch multiple objects with just YAML right?
 Oh, more reading about the `patches`:
 
-```
-patches:
+```yaml
+  patches:
   - path: <relative path to file containing patch>
     target:
       group: <optional group>
@@ -143,29 +143,29 @@ Sure, this is why I see this implementation a lot:
 Where `kustomization.yaml` is like:
 
 ```
-kind: Kustomization
-namespace: monitoring
-resources:
-  - ./helmrelease.yaml
+  kind: Kustomization
+  namespace: monitoring
+  resources:
+    - ./helmrelease.yaml
 ```
 
 And Grafana eventually deployed by Flux through Helm release:
 
-```
-apiVersion: helm.toolkit.fluxcd.io/v2beta1
-kind: HelmRelease
-metadata:
-  name: grafana
-  namespace: monitoring
-spec:
-  interval: 30m
-  chart:
-    spec:
-      chart: grafana
-      sourceRef:
-        kind: HelmRepository
-        name: grafana
-  values: ...
+```yaml
+  apiVersion: helm.toolkit.fluxcd.io/v2beta1
+  kind: HelmRelease
+  metadata:
+    name: grafana
+    namespace: monitoring
+  spec:
+    interval: 30m
+    chart:
+      spec:
+        chart: grafana
+        sourceRef:
+          kind: HelmRepository
+          name: grafana
+    values: ...
 ```
 
 I see how useful kustomize is in this scenario where you could have the awesome kustomization.yaml file there! Woohoo, what an innovation!
