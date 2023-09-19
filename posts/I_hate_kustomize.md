@@ -183,7 +183,7 @@ It's become clear over time that kustomize is primarily used in a git context.
 When that's the case, questions about what went into a build are moot, and a resources: field can be globbed or even eliminated as suggested in #3204 (another issue).
 ```
 
-So um ... I guess 5 years ago we don't have Git, Terraform, or any good example for him to think that we would run this in Git context? But there is Java and because of the kustomize should remove the feature?  
+So um ... I guess 5 years ago we didn't have Git, Terraform, or any good example for him/her/them to think that we would run this in Git context? But there is Java and because of the kustomize should remove the feature?  
 
 3 years later after the PR merged, the contributors agreed on the needs for the feature but due to "maintainer overload" issue, they could no longer do anything.
 
