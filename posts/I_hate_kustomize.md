@@ -49,7 +49,7 @@ should I write to set a service rule right??
 ]
 ```
 
-Ref #1:
+Ref:
 [https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md)
 
 Well I guess it's not that bad to patch multiple objects with just YAML right?
@@ -68,7 +68,7 @@ patches:
       annotationSelector: <optional annotation selector>
 ```
 
-Ref #2:
+Ref:
 [https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md)
 
 Brilliant! Now instead of just considering where the field is and what
