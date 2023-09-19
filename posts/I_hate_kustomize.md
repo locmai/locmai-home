@@ -169,7 +169,7 @@ spec:
 
 I see how useful kustomize is in this scenario where you could have the awesome kustomization.yaml file there! Woohoo, what an innovation!
 
-## Import globbing us bad, and why tooling that expands imports is superior
+## Import globbing is bad, and why tooling that expands imports is superior
 
 Ref: https://kubectl.docs.kubernetes.io/faq/kustomize/eschewedfeatures/#globs-in-kustomization-files
 
