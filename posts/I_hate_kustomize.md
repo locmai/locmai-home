@@ -43,8 +43,7 @@ Do you even read your examples? How many JSON or YAML multi-line string should I
   ]
 ```
 
-Ref:
-[https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md)
+Ref: [https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/jsonpatch.md)
 
 Well I guess it's not that bad to patch multiple objects with just YAML right?
 
@@ -63,8 +62,7 @@ Oh, more reading about the `patches`:
       annotationSelector: <optional annotation selector>
 ```
 
-Ref:
-[https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md)
+Ref: [https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md](https://github.com/kubernetes-sigs/kustomize/blob/master/examples/patchMultipleObjects.md)
 
 Brilliant! Now instead of just considering where the field is and what value should I put, I woul have to consider what relative path to the file that I should update? And all of the internal specification? Cool feature!
 
