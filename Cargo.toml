@@ -23,6 +23,7 @@ wasm-bindgen = "0.2.92"
 thiserror = "1.0"
 tracing = { version = "0.1", optional = true }
 http = "1.0"
+chrono = "0.4.37"
 
 [features]
 hydrate = ["leptos/hydrate", "leptos_meta/hydrate", "leptos_router/hydrate"]
@@ -47,6 +48,7 @@ features = ["ssr", "hydrate"]
 
 [package.metadata.leptos]
 output-name = "locmai_home"
+tailwind-input-file = "style/tailwind.css"
 site-root = "target/site"
 assets-dir = "public"
 site-addr = "127.0.0.1:3000"
