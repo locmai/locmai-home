@@ -17,15 +17,12 @@ pub fn Header() -> impl IntoView {
                         .map(|(name,href)|{
                             view! {
                                 <li>
-                                    <a class="relative block px-3 py2 transition" href=href.to_string()> {name.to_string()} </a>
+                                    <a class="relative block px-3 py-2 transition" href=href.to_string()> {name.to_string()} </a>
                                 </li>
                             }
                         })
                         .collect_view()
                 }
-                <li><a href="/home" class="relative block px-3 py-2 transition"> Home </a></li>
-                <li><a href="/post" class="relative block px-3 py-2 transition"> Posts </a></li>
-                <li><a href="/about" class="relative block px-3 py-2 transition"> About </a></li>
              </ul>
             </nav>
         </header>
