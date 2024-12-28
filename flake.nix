@@ -28,6 +28,7 @@
               cargo-llvm-cov
               cargo-leptos
               cargo-wasi
+              tailwindcss
               rust-analyzer
               trunk
               (

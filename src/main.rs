@@ -1,6 +1,7 @@
 use app::*;
 use leptos::*;
 mod app;
+mod pages;
 
 pub fn main() {
     _ = console_log::init_with_level(log::Level::Debug);
