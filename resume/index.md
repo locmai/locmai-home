@@ -1,11 +1,11 @@
 ---
-layout: layouts/cv.njk
+layout: layouts/resume.njk
 title: Loc Mai - Curriculum Vitae
 templateClass: tmpl-post
 ---
 
 # Loc Mai
-#### Senior Site Reliability Engineer 
+#### Senior Site Reliability Engineer
 
 ## Contacts
 
@@ -18,7 +18,7 @@ templateClass: tmpl-post
 - Website: [https://maibaloc.com](https://maibaloc.com)
 
 - GitHub: [https://github.com/locmai](https://github.com/locmai)
-                                                      
+
 ## Experiences
 - **Senior Site Reliability Engineer, Observability and Identity (January 2023 - Present) – Axon**
   - Architected and built new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services. Lead climber for building infrastructure layers and monitoring platform.
@@ -58,7 +58,7 @@ templateClass: tmpl-post
   - Was responsible for the development and maintenance of automation testing and performance testing on a Chat Bot project – automatically validating the accuracy of the answers from different Natural Language Processing models of the Bot NLP Engine.
 
 - **R&D Intern (September 2015 – September 2016) – KMS Technology**
-  - Studied solutions for performance, security and automation testing. 
+  - Studied solutions for performance, security and automation testing.
   - Conducted various training programs on building Automation testing framework and operating Linux systems for Junior QA engineers.
 
 ## Certificates
@@ -116,4 +116,4 @@ templateClass: tmpl-post
 
 - **High School for the Gifted - Vietnam National University (September 2011 – April 2014)**
   - Studied the Information Technology specialist program in High School
- 
+
