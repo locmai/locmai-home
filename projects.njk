@@ -1,0 +1,10 @@
+---
+layout: layouts/home.njk
+permalink: /projects/
+eleventyNavigation:
+  key: Projects
+  order: 3
+---
+<h1>Projects</h1>
+{% set projectslist = collections.projects %}
+{% include "projectist.njk" %}
