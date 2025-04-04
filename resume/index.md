@@ -20,13 +20,15 @@ templateClass: tmpl-post
 - GitHub: [https://github.com/locmai](https://github.com/locmai)
 
 ## Experiences
-- **Senior Site Reliability Engineer, Observability and Identity (January 2023 - Present) – Axon**
+- **Senior Site Reliability Engineer, Observability and Identity / Cloud Networking (January 2023 - Present) – Axon**
   - Architected and built new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services. Lead climber for building infrastructure layers and monitoring platform.
   - Centralized the identity management for the developer tools environment.
   - Supported the migration from GitHub Enterprise to GitHub Enterprise Cloud Managed Users.
   - Collaborated and coordinated works across corporate departments including platform engineering team and company-wide infrastructure team.
   - Was responsible for on-call rotations and handled production incidents.
   - Conducted technical interviews to hire Site Reliability Engineers and Database Reliability Engineers from Junior to Senior level.
+  - Designed multi-cluster Istio service mesh solution with self-managed PKI platform.
+  - Worked on Nginx Ingress Controller and Envoy Proxy.
 
 - **Site Reliability Engineer, Observability and Identity (April 2021 - December 2022) – Axon**
   - Saved approximately $300K per year on monitoring infrastructure cost & helped company to earn more contracts on the FedRAMP High level by migrating from DataDog service to a self-build Unified Observability Platform with Prometheus, Grafana, and Cortex.
