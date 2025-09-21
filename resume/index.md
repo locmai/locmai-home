@@ -5,6 +5,7 @@ templateClass: tmpl-post
 ---
 
 # Loc Mai
+
 #### Senior Site Reliability Engineer
 
 ## Contacts
@@ -13,14 +14,16 @@ templateClass: tmpl-post
 
 - Mobile: (+84) 90-858-4595
 
-- Email: locmai0201@gmail.com
+- Email: <locmai0201@gmail.com>
 
 - Website: [https://maibaloc.com](https://maibaloc.com)
 
 - GitHub: [https://github.com/locmai](https://github.com/locmai)
 
 ## Experiences
+
 - **Senior Site Reliability Engineer, Observability and Identity / Cloud Networking (January 2023 - Present) – Axon**
+  - Lead the Cloud Networking Service Mesh team to build and operate the multi-cluster Istio service mesh across the networks on Azure and AWS.
   - Architected and built new development tools environments based on Azure global transit network architecture with Azure VPN and Azure AD Domain Services. Lead climber for building infrastructure layers and monitoring platform.
   - Centralized the identity management for the developer tools environment.
   - Supported the migration from GitHub Enterprise to GitHub Enterprise Cloud Managed Users.
@@ -64,6 +67,7 @@ templateClass: tmpl-post
   - Conducted various training programs on building Automation testing framework and operating Linux systems for Junior QA engineers.
 
 ## Certificates
+
 - **Microsoft Certified: DevOps Engineer Expert (Oct 2020)**
   - Certified to demonstrate the ability to combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives. DevOps professionals streamline delivery by optimizing practices, improving communications and collaboration, and creating automation.
 
@@ -73,35 +77,36 @@ templateClass: tmpl-post
 - **Certified Kubernetes Administrator (August 2020)**
   - Certified for the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting
 
-
 ## Open-source Projects
+
 - **Humble - Self-hosted home server built with infrastructure as code**
-  - Repository: https://github.com/locmai/humble
-  - Project site: https://humble.maibaloc.com/
+  - Repository: <https://github.com/locmai/humble>
+  - Project site: <https://humble.maibaloc.com/>
   - The project is seeking to set up a ready-to-go environment with operating services using modern infrastructure as code with GitOps driven and managed by Kubernetes.
 
 - **Yuta - A modern ChatOps framework**
-  - Repository: https://github.com/locmai/yuta
+  - Repository: <https://github.com/locmai/yuta>
   - A well-designed and extensible ChatOps framework for building system operation bots.
   - Integrated with Matrix, Slack, Diaglogflow
 
 - **Promitor - Azure Monitor scraper**
-  - Repository: https://github.com/tomkerkhove/promitor
+  - Repository: <https://github.com/tomkerkhove/promitor>
   - Contributed to Promitor which is an Azure Monitor scraper which makes the metrics available through a scraping endpoint for Prometheus.
 
 - **Cortex**
-  - Project site: https://cortexmetrics.io
+  - Project site: <https://cortexmetrics.io>
   - Contributed in building Helm chart and bug fixing.
 
 - **OpenTelemetry - Set of Telemetry tools, integrations, SDKs**
-  - Project site: https://opentelemetry.io/
+  - Project site: <https://opentelemetry.io/>
   - Contributed in part to various OpenTelemetry projects, including OpenTelemetry Collector, Helm charts, and the Golang SDK.
 
 - **Jaeger - End-to-end distributed tracing**
-  - Project site: https://www.jaegertracing.io
+  - Project site: <https://www.jaegertracing.io>
   - Contributed in writing the Helm chart and bug fixing.
 
 ## Hackathons
+
 - **KMS Hackathon 2018 – Runner-up team**
   - Built an app that optimizes job search for under mid-wage workers using a chat bot interface.
   - Main backend developer
@@ -118,4 +123,3 @@ templateClass: tmpl-post
 
 - **High School for the Gifted - Vietnam National University (September 2011 – April 2014)**
   - Studied the Information Technology specialist program in High School
-
